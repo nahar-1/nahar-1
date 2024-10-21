@@ -1,4 +1,4 @@
-![I am Nahar](https://github.com/nahar-1/nahar-1/blob/main/code.png))
+![I am Nahar](https://github.com/nahar-1/nahar-1/blob/main/Untitled%20design.png)
 
 <h1 align="center">Hi 👋, I'm Kamnurnahar</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
