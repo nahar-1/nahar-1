@@ -1,18 +1,18 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am Nahar]([https://github.com/harun181/harun181/blob/main/code.png](https://github.com/nahar-1/nahar-1/blob/main/code.png))
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Kamnurnahar</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Student at Hablu Programmer</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=nahar-1&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning at [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
